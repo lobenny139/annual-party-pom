@@ -13,10 +13,10 @@
     </parent>
 
     <packaging>pom</packaging>
-    <groupId>com.my</groupId>
-    <artifactId>my-pom</artifactId>
+    <groupId>com.8w.annualParty</groupId>
+    <artifactId>annual-party-pom</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>my-pom</name>
+    <name>annual-party-pom</name>
     <description>定義 八方雲集 的共用 dependency</description>
 
     <properties>
