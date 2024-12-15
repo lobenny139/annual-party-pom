@@ -13,7 +13,7 @@
     </parent>
 
     <packaging>pom</packaging>
-    <groupId>com.8w.annualParty</groupId>
+    <groupId>com.annualParty</groupId>
     <artifactId>annual-party-pom</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>annual-party-pom</name>
@@ -93,7 +93,7 @@
 <!--        <module>../my-db-access-tool</module>-->
 <!--        <module>../my-db-service</module>-->
 <!--        <module>../my-jwt</module>-->
-<!--        <module>../my-api</module>-->
+        <module>../annual-party-api</module>
 <!--        <module>../my-redis-service</module>-->
 <!--        <module>../my-ldap</module>-->
     </modules>
